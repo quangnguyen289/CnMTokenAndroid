@@ -1,6 +1,6 @@
 
 
-# CnMToken
+CnMToken
 
 [CnMToken](https://xxxxxxxxxxxxxxx/) is a two-factor authentication application for systems
 utilizing one-time password protocols. Tokens can be added easily by scanning a QR code.
