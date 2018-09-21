@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CnM Token</string>
+    <string name="invalid_token">Mã thông báo được chỉ định không hợp lệ!</string>
+    <string name="delete">Xóa</string>
+    <string name="edit">Sửa</string>
+    <string name="restore_defaults">Khôi phục về mặc định</string>
+    <string name="no_keys">Không có OTP được cài đặt.</string>
+    <string name="add_token">Thêm OTP</string>
+    <string name="scan_qr_code">Quét mã QR</string>
+    <string name="interval">Khoảng thời gian</string>
+    <string name="counter">Counter</string>
+    <string name="secret">Mã bí mật</string>
+    <string name="type">Dạng</string>
+    <string name="algorithm">Thuật toán</string>
+    <string name="digits">Chữ số</string>
+    <string name="save">Lưu</string>
+    <string name="code_copied">Đã sao chép mã vào khay nhớ tạm.</string>
+
+    <string name="about_freeotp">Giới thiệu về CnMToken</string>
+    <string name="about_version">CnMToken phiên bản 1.0</string>
+    <string name="about_copyright">© 2018 - CnM.</string>
+    <string name="about_license">Bản quyền thuộc về CnM.</string>
+    <string name="about_website">Để biết thêm thông tin, truy cập %s.</string>
+    <string name="about_icons">.</string>
+
+    <string name="link_website">&lt;a href=&quot;http://fsccm.com.vn&quot;&gt;website&lt;/a&gt;</string>
+    <string name="link_apache2">&lt;a href=&quot;http://www.apache.org/licenses/LICENSE-2.0.html&quot;&gt;Apache 2.0&lt;/a&gt;</string>
+
+    <string name="error_camera_open">Lỗi khi mở máy ảnh!</string>
+    <string name="error_permission_camera_open">Không được phép mở máy ảnh</string>
+    <string name="error_image_open">Lỗi khi mở hình ảnh!</string>
+
+    <string name="delete_summary">Chú ý: nếu bạn xóa mã thông báo này, mã thông báo sẽ biến mất vĩnh viễn. Nó sẽ không bị vô hiệu hóa trên máy chủ.</string>
+    <string name="delete_question">Xóa OTP?</string>
+
+    <string-array name="algorithms">
+        <item>MD5</item>
+        <item>SHA1</item>
+        <item>SHA256</item>
+        <item>SHA512</item>
+    </string-array>
+</resources>
